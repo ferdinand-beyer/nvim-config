@@ -43,7 +43,7 @@ let g:airline_theme = 'base16'
 
 let g:nerdtree_tabs_open_on_gui_startup = 1
 
-"silent nnoremap <C-N> :NERDTreeTabsToggle<CR>
+silent nnoremap <C-N> :NERDTreeTabsToggle<CR>
 
 " See: https://chriskempson.github.io/base16/
 colorscheme base16-railscasts
