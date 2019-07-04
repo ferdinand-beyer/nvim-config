@@ -7,6 +7,8 @@ let maplocalleader = mapleader
 call plug#begin()
 
 Plug 'tpope/vim-sensible'
+Plug 'editorconfig/editorconfig-vim'
+
 Plug 'chriskempson/base16-vim'
 
 Plug 'vim-airline/vim-airline'
